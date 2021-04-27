@@ -1,5 +1,11 @@
 // Complete Day 1 goals here
 
+let songs = ["Still Your Best", "pink + white", "Fields"]; 
+let images = ["https://i1.sndcdn.com/artworks-thySh6hNG3FrYfCA-ULeFSA-t500x500.jpg",  "]; 
+let artists = [""]; 
+let lengths = [""]; 
+let links = [""]; 
+
 function displaySongInfo() {
   // Complete the Day 2 goals inside this function
 }
